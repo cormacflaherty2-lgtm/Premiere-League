@@ -1,7 +1,3 @@
 team,season,home_shots_pg,away_shots_pg,home_sot_pg,away_sot_pg,home_shots_conceded_pg,away_shots_conceded_pg,home_sot_conceded_pg,away_sot_conceded_pg,avg_possession_home,avg_possession_away,press_intensity_ppda,transition_attacks_pg,set_piece_goals_pct,xg_overperformance
-Man City,2023-24,18.2,15.8,6.8,5.9,8.2,10.4,2.8,3.6,64,58,7.2,4.2,0.22,0.35
-Man United,2023-24,12.4,10.8,4.6,4.0,13.2,14.8,4.8,5.2,52,46,11.8,3.4,0.18,-0.12
-Liverpool,2023-24,16.8,14.4,6.2,5.4,9.0,11.2,3.2,4.0,58,52,8.4,4.8,0.20,0.28
-Arsenal,2023-24,16.4,14.0,6.0,5.2,8.8,10.8,3.0,3.8,60,54,7.8,4.4,0.24,0.22
-Tottenham,2023-24,14.2,12.0,5.2,4.4,11.8,13.4,4.2,4.8,54,48,10.2,5.2,0.16,0.08
-Everton,2023-24,11.2,9.6,4.0,3.4,14.8,15.6,5.2,5.8,44,40,13.4,2.8,0.14,-0.18
+Chelsea,2024-25,15.2,13.1,5.4,4.7,9.8,11.2,3.4,4.1,58,54,8.2,4.1,0.28,0.14
+Man Utd,2024-25,12.4,11.8,4.2,3.9,12.1,13.1,4.3,4.6,51,43,11.4,3.2,0.31,-0.22

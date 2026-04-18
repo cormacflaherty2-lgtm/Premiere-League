@@ -1,23 +1,402 @@
 [
-  {"player_id": "P001", "prop_type": "Shots", "line": 2.5},
-  {"player_id": "P001", "prop_type": "SOT", "line": 1.5},
-  {"player_id": "P002", "prop_type": "Shots", "line": 3.5},
-  {"player_id": "P002", "prop_type": "SOT", "line": 1.5},
-  {"player_id": "P003", "prop_type": "Shots", "line": 3.5},
-  {"player_id": "P003", "prop_type": "SOT", "line": 1.5},
-  {"player_id": "P004", "prop_type": "Shots", "line": 2.5},
-  {"player_id": "P004", "prop_type": "SOT", "line": 1.5},
-  {"player_id": "P005", "prop_type": "Shots", "line": 2.5},
-  {"player_id": "P005", "prop_type": "SOT", "line": 1.5},
-  {"player_id": "P006", "prop_type": "Shots", "line": 1.5},
-  {"player_id": "P008", "prop_type": "Shots", "line": 2.5},
-  {"player_id": "P008", "prop_type": "SOT", "line": 1.5},
-  {"player_id": "P010", "prop_type": "Shots", "line": 2.5},
-  {"player_id": "P010", "prop_type": "SOT", "line": 1.5},
-  {"player_id": "P011", "prop_type": "Shots", "line": 2.5},
-  {"player_id": "P011", "prop_type": "SOT", "line": 1.5},
-  {"player_id": "P013", "prop_type": "Shots", "line": 1.5},
-  {"player_id": "P014", "prop_type": "Shots", "line": 2.5},
-  {"player_id": "P014", "prop_type": "SOT", "line": 1.5},
-  {"player_id": "P015", "prop_type": "Shots", "line": 0.5}
+  {
+    "player_id": "joao_pedro",
+    "prop_type": "Shots",
+    "line": 2.5
+  },
+  {
+    "player_id": "cole_palmer",
+    "prop_type": "Shots",
+    "line": 1.5
+  },
+  {
+    "player_id": "bryan_mbeumo",
+    "prop_type": "Shots",
+    "line": 2.0
+  },
+  {
+    "player_id": "matheus_cunha",
+    "prop_type": "Shots",
+    "line": 2.0
+  },
+  {
+    "player_id": "benjamin_sesko",
+    "prop_type": "Shots",
+    "line": 2.0
+  },
+  {
+    "player_id": "bruno_fernandes",
+    "prop_type": "Shots",
+    "line": 2.0
+  },
+  {
+    "player_id": "pedro_neto",
+    "prop_type": "Shots",
+    "line": 1.5
+  },
+  {
+    "player_id": "kobbie_mainoo",
+    "prop_type": "Shots",
+    "line": 0.5
+  },
+  {
+    "player_id": "harry_maguire",
+    "prop_type": "Shots",
+    "line": 0.5
+  },
+  {
+    "player_id": "estevao",
+    "prop_type": "Shots",
+    "line": 1.5
+  },
+  {
+    "player_id": "liam_delap",
+    "prop_type": "Shots",
+    "line": 1.5
+  },
+  {
+    "player_id": "marc_guiu",
+    "prop_type": "Shots",
+    "line": 1.5
+  },
+  {
+    "player_id": "alejandro_garnacho",
+    "prop_type": "Shots",
+    "line": 1.5
+  },
+  {
+    "player_id": "amad_diallo",
+    "prop_type": "Shots",
+    "line": 0.5
+  },
+  {
+    "player_id": "casemiro",
+    "prop_type": "Shots",
+    "line": 0.5
+  },
+  {
+    "player_id": "enzo_fernandez",
+    "prop_type": "Shots",
+    "line": 1.5
+  },
+  {
+    "player_id": "joshua_zirkzee",
+    "prop_type": "Shots",
+    "line": 1.5
+  },
+  {
+    "player_id": "mason_mount",
+    "prop_type": "Shots",
+    "line": 0.5
+  },
+  {
+    "player_id": "andrey_santos",
+    "prop_type": "Shots",
+    "line": 0.5
+  },
+  {
+    "player_id": "dario_essugo",
+    "prop_type": "Shots",
+    "line": 0.5
+  },
+  {
+    "player_id": "shea_lacey",
+    "prop_type": "Shots",
+    "line": 1.5
+  },
+  {
+    "player_id": "jorrel_hato",
+    "prop_type": "Shots",
+    "line": 1.5
+  },
+  {
+    "player_id": "diogo_dalot",
+    "prop_type": "Shots",
+    "line": 1.5
+  },
+  {
+    "player_id": "malo_gusto",
+    "prop_type": "Shots",
+    "line": 1.5
+  },
+  {
+    "player_id": "manuel_ugarte",
+    "prop_type": "Shots",
+    "line": 1.5
+  },
+  {
+    "player_id": "marc_cucurella",
+    "prop_type": "Shots",
+    "line": 1.5
+  },
+  {
+    "player_id": "moises_caicedo",
+    "prop_type": "Shots",
+    "line": 0.5
+  },
+  {
+    "player_id": "romeo_lavia",
+    "prop_type": "Shots",
+    "line": 1.5
+  },
+  {
+    "player_id": "wesley_fofana",
+    "prop_type": "Shots",
+    "line": 0.5
+  },
+  {
+    "player_id": "tosin_adarabioyo",
+    "prop_type": "Shots",
+    "line": 0.5
+  },
+  {
+    "player_id": "josh_acheampong",
+    "prop_type": "Shots",
+    "line": 0.5
+  },
+  {
+    "player_id": "mamadou_sarr",
+    "prop_type": "Shots",
+    "line": 0.5
+  },
+  {
+    "player_id": "reece_james",
+    "prop_type": "Shots",
+    "line": 1.5
+  },
+  {
+    "player_id": "tyrell_malacia",
+    "prop_type": "Shots",
+    "line": 1.5
+  },
+  {
+    "player_id": "luke_shaw",
+    "prop_type": "Shots",
+    "line": 1.5
+  },
+  {
+    "player_id": "ayden_heaven",
+    "prop_type": "Shots",
+    "line": 1.5
+  },
+  {
+    "player_id": "tyler_fredricson",
+    "prop_type": "Shots",
+    "line": 0.5
+  },
+  {
+    "player_id": "noussair_mazraoui",
+    "prop_type": "Shots",
+    "line": 0.5
+  },
+  {
+    "player_id": "leny_yoro",
+    "prop_type": "Shots",
+    "line": 0.5
+  },
+  {
+    "player_id": "benoit_badiashile",
+    "prop_type": "Shots",
+    "line": 0.5
+  },
+  {
+    "player_id": "pedro_neto",
+    "prop_type": "SOT",
+    "line": 0.5
+  },
+  {
+    "player_id": "bryan_mbeumo",
+    "prop_type": "SOT",
+    "line": 0.5
+  },
+  {
+    "player_id": "joao_pedro",
+    "prop_type": "SOT",
+    "line": 0.5
+  },
+  {
+    "player_id": "bruno_fernandes",
+    "prop_type": "SOT",
+    "line": 1.5
+  },
+  {
+    "player_id": "cole_palmer",
+    "prop_type": "SOT",
+    "line": 0.5
+  },
+  {
+    "player_id": "benjamin_sesko",
+    "prop_type": "SOT",
+    "line": 0.5
+  },
+  {
+    "player_id": "joshua_zirkzee",
+    "prop_type": "SOT",
+    "line": 0.5
+  },
+  {
+    "player_id": "liam_delap",
+    "prop_type": "SOT",
+    "line": 0.5
+  },
+  {
+    "player_id": "matheus_cunha",
+    "prop_type": "SOT",
+    "line": 0.5
+  },
+  {
+    "player_id": "amad_diallo",
+    "prop_type": "SOT",
+    "line": 1.5
+  },
+  {
+    "player_id": "enzo_fernandez",
+    "prop_type": "SOT",
+    "line": 1.5
+  },
+  {
+    "player_id": "alejandro_garnacho",
+    "prop_type": "SOT",
+    "line": 1.5
+  },
+  {
+    "player_id": "casemiro",
+    "prop_type": "SOT",
+    "line": 1.5
+  },
+  {
+    "player_id": "estevao",
+    "prop_type": "SOT",
+    "line": 0.5
+  },
+  {
+    "player_id": "marc_guiu",
+    "prop_type": "SOT",
+    "line": 0.5
+  },
+  {
+    "player_id": "mason_mount",
+    "prop_type": "SOT",
+    "line": 1.5
+  },
+  {
+    "player_id": "andrey_santos",
+    "prop_type": "SOT",
+    "line": 0.5
+  },
+  {
+    "player_id": "shea_lacey",
+    "prop_type": "SOT",
+    "line": 1.5
+  },
+  {
+    "player_id": "tosin_adarabioyo",
+    "prop_type": "SOT",
+    "line": 0.5
+  },
+  {
+    "player_id": "ayden_heaven",
+    "prop_type": "SOT",
+    "line": 0.5
+  },
+  {
+    "player_id": "jorrel_hato",
+    "prop_type": "SOT",
+    "line": 0.5
+  },
+  {
+    "player_id": "josh_acheampong",
+    "prop_type": "SOT",
+    "line": 0.5
+  },
+  {
+    "player_id": "diogo_dalot",
+    "prop_type": "SOT",
+    "line": 0.5
+  },
+  {
+    "player_id": "kobbie_mainoo",
+    "prop_type": "SOT",
+    "line": 0.5
+  },
+  {
+    "player_id": "leny_yoro",
+    "prop_type": "SOT",
+    "line": 0.5
+  },
+  {
+    "player_id": "luke_shaw",
+    "prop_type": "SOT",
+    "line": 0.5
+  },
+  {
+    "player_id": "malo_gusto",
+    "prop_type": "SOT",
+    "line": 0.5
+  },
+  {
+    "player_id": "marc_cucurella",
+    "prop_type": "SOT",
+    "line": 0.5
+  },
+  {
+    "player_id": "moises_caicedo",
+    "prop_type": "SOT",
+    "line": 0.5
+  },
+  {
+    "player_id": "noussair_mazraoui",
+    "prop_type": "SOT",
+    "line": 0.5
+  },
+  {
+    "player_id": "reece_james",
+    "prop_type": "SOT",
+    "line": 0.5
+  },
+  {
+    "player_id": "romeo_lavia",
+    "prop_type": "SOT",
+    "line": 0.5
+  },
+  {
+    "player_id": "trevoh_chalobah",
+    "prop_type": "SOT",
+    "line": 0.5
+  },
+  {
+    "player_id": "wesley_fofana",
+    "prop_type": "SOT",
+    "line": 0.5
+  },
+  {
+    "player_id": "manuel_ugarte",
+    "prop_type": "SOT",
+    "line": 0.5
+  },
+  {
+    "player_id": "benoit_badiashile",
+    "prop_type": "SOT",
+    "line": 0.5
+  },
+  {
+    "player_id": "dario_essugo",
+    "prop_type": "SOT",
+    "line": 0.5
+  },
+  {
+    "player_id": "mamadou_sarr",
+    "prop_type": "SOT",
+    "line": 0.5
+  },
+  {
+    "player_id": "tyler_fredricson",
+    "prop_type": "SOT",
+    "line": 0.5
+  },
+  {
+    "player_id": "tyrell_malacia",
+    "prop_type": "SOT",
+    "line": 0.5
+  }
 ]
