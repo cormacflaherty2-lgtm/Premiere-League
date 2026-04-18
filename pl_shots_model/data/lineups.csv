@@ -1,0 +1,16 @@
+match_id,player_id,player_name,team,is_confirmed_starter,expected_minutes,tactical_role_override,playing_position_today
+M001,P001,Erling Haaland,Man City,True,90,,CF
+M001,P002,Marcus Rashford,Man United,True,90,,WF_inside
+M001,P006,Kevin De Bruyne,Man City,True,90,,CM_box
+M001,P008,Bruno Fernandes,Man United,True,90,,AM
+M002,P003,Mohamed Salah,Liverpool,True,90,,WF_inside
+M002,P007,Virgil van Dijk,Liverpool,True,90,,CB_aerial
+M002,P009,Trent Alexander-Arnold,Liverpool,True,90,wingback,
+M002,P005,Bukayo Saka,Arsenal,True,90,,WF_inside
+M002,P010,Gabriel Martinelli,Arsenal,True,90,,WF_inside
+M002,P012,Declan Rice,Arsenal,True,90,,CM_box
+M002,P015,Alisson Becker,Liverpool,False,0,,GK
+M003,P004,Son Heung-min,Tottenham,True,90,,SS
+M003,P013,Richarlison,Tottenham,True,30,,CF
+M003,P011,Dominic Calvert-Lewin,Everton,True,90,,CF
+M003,P014,James Tarkowski,Everton,True,90,,CB_defensive

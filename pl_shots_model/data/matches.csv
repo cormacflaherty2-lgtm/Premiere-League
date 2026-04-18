@@ -1,0 +1,4 @@
+match_id,date,home_team,away_team,home_possession_pct,away_possession_pct,home_team_xg_for_season,away_team_xg_for_season,home_team_shots_pg,away_team_shots_pg,home_team_shots_conceded_pg,away_team_shots_conceded_pg,home_team_sot_conceded_pg,away_team_sot_conceded_pg,home_team_deep_completions_pg,away_team_deep_completions_pg,match_importance_home,match_importance_away,home_goals_needed_aggregate,away_goals_needed_aggregate,game_state_context,weather_condition,pitch_quality,referee_id,avg_fouls_this_ref,home_rest_days,away_rest_days
+M001,2024-04-20,Man City,Man United,62,38,2.18,1.12,17.4,10.2,8.8,13.6,3.2,4.8,12,7,must_win_title,neutral,0,0,open,clear,excellent,REF001,23.5,5,4
+M002,2024-04-20,Liverpool,Arsenal,55,45,2.05,1.98,15.8,14.2,9.4,10.6,3.5,3.8,10,9,must_win_top4,must_win_top4,0,0,open,rain,good,REF002,21.0,7,6
+M003,2024-04-21,Tottenham,Everton,52,48,1.62,1.05,13.8,11.2,11.4,13.0,4.0,4.5,8,7,neutral,dead_rubber,0,0,open,clear,good,REF003,24.8,4,3

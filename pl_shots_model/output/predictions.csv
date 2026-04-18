@@ -1,0 +1,22 @@
+player_id,player_name,team,opponent,is_home,match_id,role,prop_type,direction,exp_value,prop_line,edge_pct,hit_prob,tier,status,ev_2leg,ev_3leg
+P015,Alisson,Liverpool,Arsenal,True,M002,GK,Shots,UNDER,0.0,0.5,0.0,0.999,S+,NON_STARTER,1.997,3.995
+P014,James Tarkowski,Everton,Tottenham,False,M003,CB_defensive,SOT,UNDER,0.126,1.5,1090.48,0.9803838912128341,S+,STARTER,1.941,3.902
+P014,James Tarkowski,Everton,Tottenham,False,M003,CB_defensive,Shots,UNDER,0.434,2.5,476.04,0.9734263002976447,S+,STARTER,1.92,3.867
+P001,Erling Haaland,Man City,Man United,True,M001,CF,Shots,OVER,6.829,2.5,173.16,0.9408806239737433,S+,STARTER,1.823,3.704
+P001,Erling Haaland,Man City,Man United,True,M001,CF,SOT,OVER,3.077,1.5,105.13,0.7596914935493662,A,STARTER,1.279,2.798
+P008,Bruno Fernandes,Man United,Man City,False,M001,AM,SOT,UNDER,0.946,1.5,58.56,0.7561486266712498,A,STARTER,1.268,2.781
+P004,Son Heung-min,Tottenham,Everton,True,M003,SS,Shots,OVER,4.003,2.5,60.12,0.7118644953688141,B,STARTER,1.136,2.559
+P002,Marcus Rashford,Man United,Man City,False,M001,WF_inside,Shots,UNDER,2.742,3.5,27.64,0.6982334575537777,B,STARTER,1.095,2.491
+P010,Gabriel Martinelli,Arsenal,Liverpool,False,M002,WF_inside,SOT,UNDER,1.149,1.5,30.55,0.6926104140757142,B,STARTER,1.078,2.463
+P002,Marcus Rashford,Man United,Man City,False,M001,WF_inside,SOT,UNDER,1.17,1.5,28.21,0.6860892004964941,B,STARTER,1.058,2.43
+P006,Kevin De Bruyne,Man City,Man United,True,M001,CM_box,Shots,OVER,2.596,1.5,73.07,0.6785403316390001,B,STARTER,1.036,2.393
+P005,Bukayo Saka,Arsenal,Liverpool,False,M002,WF_inside,SOT,UNDER,1.267,1.5,18.39,0.6561972817208244,B,STARTER,0.969,2.281
+P013,Richarlison,Tottenham,Everton,True,M003,CF,Shots,UNDER,1.274,1.5,17.74,0.6540569632285703,B,STARTER,0.962,2.27
+P003,Mohamed Salah,Liverpool,Arsenal,True,M002,WF_inside,Shots,OVER,4.737,3.5,35.34,0.6508132091883412,B,STARTER,0.952,2.254
+P011,Dominic Calvert-Lewin,Everton,Tottenham,False,M003,CF,SOT,UNDER,1.322,1.5,13.46,0.6394504940889849,C,STARTER,0.918,2.197
+P008,Bruno Fernandes,Man United,Man City,False,M001,AM,Shots,UNDER,2.341,2.5,6.79,0.601405413704489,C,STARTER,0.804,2.007
+P003,Mohamed Salah,Liverpool,Arsenal,True,M002,WF_inside,SOT,OVER,2.149,1.5,43.27,0.5841802700905643,C,STARTER,0.753,1.921
+P005,Bukayo Saka,Arsenal,Liverpool,False,M002,WF_inside,Shots,OVER,2.904,2.5,16.16,0.5200429569030968,D,STARTER,0.56,1.6
+P010,Gabriel Martinelli,Arsenal,Liverpool,False,M002,WF_inside,Shots,UNDER,2.753,2.5,-9.19,0.5112907145520603,D,STARTER,0.534,1.556
+P004,Son Heung-min,Tottenham,Everton,True,M003,SS,SOT,UNDER,1.772,1.5,-15.35,0.5103380441971559,D,STARTER,0.531,1.552
+P011,Dominic Calvert-Lewin,Everton,Tottenham,False,M003,CF,Shots,OVER,2.831,2.5,13.24,0.5050252907511186,D,STARTER,0.515,1.525

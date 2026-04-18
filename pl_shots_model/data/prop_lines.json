@@ -1,0 +1,23 @@
+[
+  {"player_id": "P001", "prop_type": "Shots", "line": 2.5},
+  {"player_id": "P001", "prop_type": "SOT", "line": 1.5},
+  {"player_id": "P002", "prop_type": "Shots", "line": 3.5},
+  {"player_id": "P002", "prop_type": "SOT", "line": 1.5},
+  {"player_id": "P003", "prop_type": "Shots", "line": 3.5},
+  {"player_id": "P003", "prop_type": "SOT", "line": 1.5},
+  {"player_id": "P004", "prop_type": "Shots", "line": 2.5},
+  {"player_id": "P004", "prop_type": "SOT", "line": 1.5},
+  {"player_id": "P005", "prop_type": "Shots", "line": 2.5},
+  {"player_id": "P005", "prop_type": "SOT", "line": 1.5},
+  {"player_id": "P006", "prop_type": "Shots", "line": 1.5},
+  {"player_id": "P008", "prop_type": "Shots", "line": 2.5},
+  {"player_id": "P008", "prop_type": "SOT", "line": 1.5},
+  {"player_id": "P010", "prop_type": "Shots", "line": 2.5},
+  {"player_id": "P010", "prop_type": "SOT", "line": 1.5},
+  {"player_id": "P011", "prop_type": "Shots", "line": 2.5},
+  {"player_id": "P011", "prop_type": "SOT", "line": 1.5},
+  {"player_id": "P013", "prop_type": "Shots", "line": 1.5},
+  {"player_id": "P014", "prop_type": "Shots", "line": 2.5},
+  {"player_id": "P014", "prop_type": "SOT", "line": 1.5},
+  {"player_id": "P015", "prop_type": "Shots", "line": 0.5}
+]

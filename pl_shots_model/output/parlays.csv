@@ -1,0 +1,21 @@
+parlay_size,leg,player_name,team,prop_type,direction,prop_line,hit_prob,combined_hit_prob,payout_mult,ev_multiplier
+2,1,Alisson,Liverpool,Shots,UNDER,0.5,0.999,0.9794,3.0,1.938
+2,2,James Tarkowski,Everton,SOT,UNDER,1.5,0.9803838912128341,0.9794,3.0,1.938
+3,1,Alisson,Liverpool,Shots,UNDER,0.5,0.999,0.9248,5.0,3.624
+3,2,James Tarkowski,Everton,SOT,UNDER,1.5,0.9803838912128341,0.9248,5.0,3.624
+3,3,James Tarkowski,Everton,Shots,UNDER,2.5,0.9734263002976447,0.9248,5.0,3.624
+4,1,Alisson,Liverpool,Shots,UNDER,0.5,0.999,0.8701,10.0,7.701
+4,2,James Tarkowski,Everton,SOT,UNDER,1.5,0.9803838912128341,0.8701,10.0,7.701
+4,3,James Tarkowski,Everton,Shots,UNDER,2.5,0.9734263002976447,0.8701,10.0,7.701
+4,4,Erling Haaland,Man City,Shots,OVER,2.5,0.9408806239737433,0.8701,10.0,7.701
+5,1,Alisson,Liverpool,Shots,UNDER,0.5,0.999,0.6579,20.0,12.159
+5,2,James Tarkowski,Everton,SOT,UNDER,1.5,0.9803838912128341,0.6579,20.0,12.159
+5,3,James Tarkowski,Everton,Shots,UNDER,2.5,0.9734263002976447,0.6579,20.0,12.159
+5,4,Erling Haaland,Man City,Shots,OVER,2.5,0.9408806239737433,0.6579,20.0,12.159
+5,5,Bruno Fernandes,Man United,SOT,UNDER,1.5,0.7561486266712498,0.6579,20.0,12.159
+6,1,Alisson,Liverpool,Shots,UNDER,0.5,0.999,0.4606,40.0,17.423
+6,2,James Tarkowski,Everton,SOT,UNDER,1.5,0.9803838912128341,0.4606,40.0,17.423
+6,3,James Tarkowski,Everton,Shots,UNDER,2.5,0.9734263002976447,0.4606,40.0,17.423
+6,4,Erling Haaland,Man City,Shots,OVER,2.5,0.9408806239737433,0.4606,40.0,17.423
+6,5,Erling Haaland,Man City,SOT,OVER,1.5,0.7596914935493662,0.4606,40.0,17.423
+6,6,Bruno Fernandes,Man United,SOT,UNDER,1.5,0.7561486266712498,0.4606,40.0,17.423
