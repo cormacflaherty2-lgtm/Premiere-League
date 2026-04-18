@@ -1,0 +1,562 @@
+[
+  {
+    "matchweek": 1,
+    "match_id": "BT_M01_1",
+    "player_id": "P_BT3",
+    "prop_type": "Shots",
+    "line": 2.5
+  },
+  {
+    "matchweek": 1,
+    "match_id": "BT_M01_2",
+    "player_id": "P_BT7",
+    "prop_type": "Shots",
+    "line": 1.5
+  },
+  {
+    "matchweek": 1,
+    "match_id": "BT_M01_1",
+    "player_id": "P_BT1",
+    "prop_type": "Shots",
+    "line": 2.5
+  },
+  {
+    "matchweek": 1,
+    "match_id": "BT_M01_1",
+    "player_id": "P_BT3",
+    "prop_type": "SOT",
+    "line": 1.5
+  },
+  {
+    "matchweek": 1,
+    "match_id": "BT_M01_1",
+    "player_id": "P_BT1",
+    "prop_type": "Shots",
+    "line": 3.5
+  },
+  {
+    "matchweek": 1,
+    "match_id": "BT_M01_2",
+    "player_id": "P_BT5",
+    "prop_type": "Shots",
+    "line": 2.5
+  },
+  {
+    "matchweek": 1,
+    "match_id": "BT_M01_1",
+    "player_id": "P_BT2",
+    "prop_type": "SOT",
+    "line": 1.5
+  },
+  {
+    "matchweek": 1,
+    "match_id": "BT_M01_1",
+    "player_id": "P_BT4",
+    "prop_type": "Shots",
+    "line": 1.5
+  },
+  {
+    "matchweek": 2,
+    "match_id": "BT_M02_1",
+    "player_id": "P_BT3",
+    "prop_type": "Shots",
+    "line": 2.5
+  },
+  {
+    "matchweek": 2,
+    "match_id": "BT_M02_2",
+    "player_id": "P_BT7",
+    "prop_type": "Shots",
+    "line": 1.5
+  },
+  {
+    "matchweek": 2,
+    "match_id": "BT_M02_1",
+    "player_id": "P_BT1",
+    "prop_type": "Shots",
+    "line": 2.5
+  },
+  {
+    "matchweek": 2,
+    "match_id": "BT_M02_1",
+    "player_id": "P_BT3",
+    "prop_type": "SOT",
+    "line": 1.5
+  },
+  {
+    "matchweek": 2,
+    "match_id": "BT_M02_1",
+    "player_id": "P_BT1",
+    "prop_type": "Shots",
+    "line": 3.5
+  },
+  {
+    "matchweek": 2,
+    "match_id": "BT_M02_2",
+    "player_id": "P_BT5",
+    "prop_type": "Shots",
+    "line": 2.5
+  },
+  {
+    "matchweek": 2,
+    "match_id": "BT_M02_1",
+    "player_id": "P_BT2",
+    "prop_type": "SOT",
+    "line": 1.5
+  },
+  {
+    "matchweek": 2,
+    "match_id": "BT_M02_1",
+    "player_id": "P_BT4",
+    "prop_type": "Shots",
+    "line": 1.5
+  },
+  {
+    "matchweek": 3,
+    "match_id": "BT_M03_2",
+    "player_id": "P_BT3",
+    "prop_type": "Shots",
+    "line": 2.5
+  },
+  {
+    "matchweek": 3,
+    "match_id": "BT_M03_2",
+    "player_id": "P_BT7",
+    "prop_type": "Shots",
+    "line": 1.5
+  },
+  {
+    "matchweek": 3,
+    "match_id": "BT_M03_1",
+    "player_id": "P_BT1",
+    "prop_type": "Shots",
+    "line": 2.5
+  },
+  {
+    "matchweek": 3,
+    "match_id": "BT_M03_2",
+    "player_id": "P_BT3",
+    "prop_type": "SOT",
+    "line": 1.5
+  },
+  {
+    "matchweek": 3,
+    "match_id": "BT_M03_1",
+    "player_id": "P_BT1",
+    "prop_type": "Shots",
+    "line": 3.5
+  },
+  {
+    "matchweek": 3,
+    "match_id": "BT_M03_1",
+    "player_id": "P_BT5",
+    "prop_type": "Shots",
+    "line": 2.5
+  },
+  {
+    "matchweek": 3,
+    "match_id": "BT_M03_1",
+    "player_id": "P_BT2",
+    "prop_type": "SOT",
+    "line": 1.5
+  },
+  {
+    "matchweek": 3,
+    "match_id": "BT_M03_2",
+    "player_id": "P_BT4",
+    "prop_type": "Shots",
+    "line": 1.5
+  },
+  {
+    "matchweek": 4,
+    "match_id": "BT_M04_2",
+    "player_id": "P_BT3",
+    "prop_type": "Shots",
+    "line": 2.5
+  },
+  {
+    "matchweek": 4,
+    "match_id": "BT_M04_2",
+    "player_id": "P_BT7",
+    "prop_type": "Shots",
+    "line": 1.5
+  },
+  {
+    "matchweek": 4,
+    "match_id": "BT_M04_1",
+    "player_id": "P_BT1",
+    "prop_type": "Shots",
+    "line": 2.5
+  },
+  {
+    "matchweek": 4,
+    "match_id": "BT_M04_2",
+    "player_id": "P_BT3",
+    "prop_type": "SOT",
+    "line": 1.5
+  },
+  {
+    "matchweek": 4,
+    "match_id": "BT_M04_1",
+    "player_id": "P_BT1",
+    "prop_type": "Shots",
+    "line": 3.5
+  },
+  {
+    "matchweek": 4,
+    "match_id": "BT_M04_1",
+    "player_id": "P_BT5",
+    "prop_type": "Shots",
+    "line": 2.5
+  },
+  {
+    "matchweek": 4,
+    "match_id": "BT_M04_1",
+    "player_id": "P_BT2",
+    "prop_type": "SOT",
+    "line": 1.5
+  },
+  {
+    "matchweek": 4,
+    "match_id": "BT_M04_2",
+    "player_id": "P_BT4",
+    "prop_type": "Shots",
+    "line": 1.5
+  },
+  {
+    "matchweek": 5,
+    "match_id": "BT_M05_2",
+    "player_id": "P_BT3",
+    "prop_type": "Shots",
+    "line": 2.5
+  },
+  {
+    "matchweek": 5,
+    "match_id": "BT_M05_1",
+    "player_id": "P_BT7",
+    "prop_type": "Shots",
+    "line": 1.5
+  },
+  {
+    "matchweek": 5,
+    "match_id": "BT_M05_1",
+    "player_id": "P_BT1",
+    "prop_type": "Shots",
+    "line": 2.5
+  },
+  {
+    "matchweek": 5,
+    "match_id": "BT_M05_2",
+    "player_id": "P_BT3",
+    "prop_type": "SOT",
+    "line": 1.5
+  },
+  {
+    "matchweek": 5,
+    "match_id": "BT_M05_1",
+    "player_id": "P_BT1",
+    "prop_type": "Shots",
+    "line": 3.5
+  },
+  {
+    "matchweek": 5,
+    "match_id": "BT_M05_2",
+    "player_id": "P_BT5",
+    "prop_type": "Shots",
+    "line": 2.5
+  },
+  {
+    "matchweek": 5,
+    "match_id": "BT_M05_1",
+    "player_id": "P_BT2",
+    "prop_type": "SOT",
+    "line": 1.5
+  },
+  {
+    "matchweek": 5,
+    "match_id": "BT_M05_2",
+    "player_id": "P_BT4",
+    "prop_type": "Shots",
+    "line": 1.5
+  },
+  {
+    "matchweek": 6,
+    "match_id": "BT_M06_2",
+    "player_id": "P_BT3",
+    "prop_type": "Shots",
+    "line": 2.5
+  },
+  {
+    "matchweek": 6,
+    "match_id": "BT_M06_1",
+    "player_id": "P_BT7",
+    "prop_type": "Shots",
+    "line": 1.5
+  },
+  {
+    "matchweek": 6,
+    "match_id": "BT_M06_1",
+    "player_id": "P_BT1",
+    "prop_type": "Shots",
+    "line": 2.5
+  },
+  {
+    "matchweek": 6,
+    "match_id": "BT_M06_2",
+    "player_id": "P_BT3",
+    "prop_type": "SOT",
+    "line": 1.5
+  },
+  {
+    "matchweek": 6,
+    "match_id": "BT_M06_1",
+    "player_id": "P_BT1",
+    "prop_type": "Shots",
+    "line": 3.5
+  },
+  {
+    "matchweek": 6,
+    "match_id": "BT_M06_2",
+    "player_id": "P_BT5",
+    "prop_type": "Shots",
+    "line": 2.5
+  },
+  {
+    "matchweek": 6,
+    "match_id": "BT_M06_1",
+    "player_id": "P_BT2",
+    "prop_type": "SOT",
+    "line": 1.5
+  },
+  {
+    "matchweek": 6,
+    "match_id": "BT_M06_2",
+    "player_id": "P_BT4",
+    "prop_type": "Shots",
+    "line": 1.5
+  },
+  {
+    "matchweek": 7,
+    "match_id": "BT_M07_1",
+    "player_id": "P_BT3",
+    "prop_type": "Shots",
+    "line": 2.5
+  },
+  {
+    "matchweek": 7,
+    "match_id": "BT_M07_2",
+    "player_id": "P_BT7",
+    "prop_type": "Shots",
+    "line": 1.5
+  },
+  {
+    "matchweek": 7,
+    "match_id": "BT_M07_1",
+    "player_id": "P_BT1",
+    "prop_type": "Shots",
+    "line": 2.5
+  },
+  {
+    "matchweek": 7,
+    "match_id": "BT_M07_1",
+    "player_id": "P_BT3",
+    "prop_type": "SOT",
+    "line": 1.5
+  },
+  {
+    "matchweek": 7,
+    "match_id": "BT_M07_1",
+    "player_id": "P_BT1",
+    "prop_type": "Shots",
+    "line": 3.5
+  },
+  {
+    "matchweek": 7,
+    "match_id": "BT_M07_2",
+    "player_id": "P_BT5",
+    "prop_type": "Shots",
+    "line": 2.5
+  },
+  {
+    "matchweek": 7,
+    "match_id": "BT_M07_1",
+    "player_id": "P_BT2",
+    "prop_type": "SOT",
+    "line": 1.5
+  },
+  {
+    "matchweek": 7,
+    "match_id": "BT_M07_1",
+    "player_id": "P_BT4",
+    "prop_type": "Shots",
+    "line": 1.5
+  },
+  {
+    "matchweek": 8,
+    "match_id": "BT_M08_1",
+    "player_id": "P_BT3",
+    "prop_type": "Shots",
+    "line": 2.5
+  },
+  {
+    "matchweek": 8,
+    "match_id": "BT_M08_2",
+    "player_id": "P_BT7",
+    "prop_type": "Shots",
+    "line": 1.5
+  },
+  {
+    "matchweek": 8,
+    "match_id": "BT_M08_1",
+    "player_id": "P_BT1",
+    "prop_type": "Shots",
+    "line": 2.5
+  },
+  {
+    "matchweek": 8,
+    "match_id": "BT_M08_1",
+    "player_id": "P_BT3",
+    "prop_type": "SOT",
+    "line": 1.5
+  },
+  {
+    "matchweek": 8,
+    "match_id": "BT_M08_1",
+    "player_id": "P_BT1",
+    "prop_type": "Shots",
+    "line": 3.5
+  },
+  {
+    "matchweek": 8,
+    "match_id": "BT_M08_2",
+    "player_id": "P_BT5",
+    "prop_type": "Shots",
+    "line": 2.5
+  },
+  {
+    "matchweek": 8,
+    "match_id": "BT_M08_1",
+    "player_id": "P_BT2",
+    "prop_type": "SOT",
+    "line": 1.5
+  },
+  {
+    "matchweek": 8,
+    "match_id": "BT_M08_1",
+    "player_id": "P_BT4",
+    "prop_type": "Shots",
+    "line": 1.5
+  },
+  {
+    "matchweek": 9,
+    "match_id": "BT_M09_2",
+    "player_id": "P_BT3",
+    "prop_type": "Shots",
+    "line": 2.5
+  },
+  {
+    "matchweek": 9,
+    "match_id": "BT_M09_2",
+    "player_id": "P_BT7",
+    "prop_type": "Shots",
+    "line": 1.5
+  },
+  {
+    "matchweek": 9,
+    "match_id": "BT_M09_1",
+    "player_id": "P_BT1",
+    "prop_type": "Shots",
+    "line": 2.5
+  },
+  {
+    "matchweek": 9,
+    "match_id": "BT_M09_2",
+    "player_id": "P_BT3",
+    "prop_type": "SOT",
+    "line": 1.5
+  },
+  {
+    "matchweek": 9,
+    "match_id": "BT_M09_1",
+    "player_id": "P_BT1",
+    "prop_type": "Shots",
+    "line": 3.5
+  },
+  {
+    "matchweek": 9,
+    "match_id": "BT_M09_1",
+    "player_id": "P_BT5",
+    "prop_type": "Shots",
+    "line": 2.5
+  },
+  {
+    "matchweek": 9,
+    "match_id": "BT_M09_1",
+    "player_id": "P_BT2",
+    "prop_type": "SOT",
+    "line": 1.5
+  },
+  {
+    "matchweek": 9,
+    "match_id": "BT_M09_2",
+    "player_id": "P_BT4",
+    "prop_type": "Shots",
+    "line": 1.5
+  },
+  {
+    "matchweek": 10,
+    "match_id": "BT_M10_2",
+    "player_id": "P_BT3",
+    "prop_type": "Shots",
+    "line": 2.5
+  },
+  {
+    "matchweek": 10,
+    "match_id": "BT_M10_2",
+    "player_id": "P_BT7",
+    "prop_type": "Shots",
+    "line": 1.5
+  },
+  {
+    "matchweek": 10,
+    "match_id": "BT_M10_1",
+    "player_id": "P_BT1",
+    "prop_type": "Shots",
+    "line": 2.5
+  },
+  {
+    "matchweek": 10,
+    "match_id": "BT_M10_2",
+    "player_id": "P_BT3",
+    "prop_type": "SOT",
+    "line": 1.5
+  },
+  {
+    "matchweek": 10,
+    "match_id": "BT_M10_1",
+    "player_id": "P_BT1",
+    "prop_type": "Shots",
+    "line": 3.5
+  },
+  {
+    "matchweek": 10,
+    "match_id": "BT_M10_1",
+    "player_id": "P_BT5",
+    "prop_type": "Shots",
+    "line": 2.5
+  },
+  {
+    "matchweek": 10,
+    "match_id": "BT_M10_1",
+    "player_id": "P_BT2",
+    "prop_type": "SOT",
+    "line": 1.5
+  },
+  {
+    "matchweek": 10,
+    "match_id": "BT_M10_2",
+    "player_id": "P_BT4",
+    "prop_type": "Shots",
+    "line": 1.5
+  }
+]

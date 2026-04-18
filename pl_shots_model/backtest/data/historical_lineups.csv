@@ -1,0 +1,81 @@
+match_id,matchweek,player_id,player_name,team,is_confirmed_starter,expected_minutes,tactical_role_override,playing_position_today
+BT_M01_1,1,P_BT1,Harry Kane,TeamA,True,90,,CF
+BT_M01_1,1,P_BT2,Mo Salah,TeamA,True,90,,WF_inside
+BT_M01_1,1,P_BT3,Erling Haaland,TeamB,True,90,,CF
+BT_M01_1,1,P_BT4,Kevin De Bruyne,TeamB,True,90,,CM_box
+BT_M01_2,1,P_BT5,Son Heung-min,TeamC,True,90,,SS
+BT_M01_2,1,P_BT6,Bukayo Saka,TeamC,True,90,,WF_inside
+BT_M01_2,1,P_BT7,James Tarkowski,TeamD,True,90,,CB_defensive
+BT_M01_2,1,P_BT8,Declan Rice,TeamD,True,90,,CM_box
+BT_M02_1,2,P_BT3,Erling Haaland,TeamB,True,90,,CF
+BT_M02_1,2,P_BT4,Kevin De Bruyne,TeamB,True,90,,CM_box
+BT_M02_1,2,P_BT1,Harry Kane,TeamA,True,90,,CF
+BT_M02_1,2,P_BT2,Mo Salah,TeamA,True,90,,WF_inside
+BT_M02_2,2,P_BT7,James Tarkowski,TeamD,True,90,,CB_defensive
+BT_M02_2,2,P_BT8,Declan Rice,TeamD,True,90,,CM_box
+BT_M02_2,2,P_BT5,Son Heung-min,TeamC,True,90,,SS
+BT_M02_2,2,P_BT6,Bukayo Saka,TeamC,True,90,,WF_inside
+BT_M03_1,3,P_BT1,Harry Kane,TeamA,True,90,,CF
+BT_M03_1,3,P_BT2,Mo Salah,TeamA,True,90,,WF_inside
+BT_M03_1,3,P_BT5,Son Heung-min,TeamC,True,90,,SS
+BT_M03_1,3,P_BT6,Bukayo Saka,TeamC,True,90,,WF_inside
+BT_M03_2,3,P_BT3,Erling Haaland,TeamB,True,90,,CF
+BT_M03_2,3,P_BT4,Kevin De Bruyne,TeamB,True,90,,CM_box
+BT_M03_2,3,P_BT7,James Tarkowski,TeamD,False,0,,CB_defensive
+BT_M03_2,3,P_BT8,Declan Rice,TeamD,True,90,,CM_box
+BT_M04_1,4,P_BT5,Son Heung-min,TeamC,True,90,,SS
+BT_M04_1,4,P_BT6,Bukayo Saka,TeamC,True,90,,WF_inside
+BT_M04_1,4,P_BT1,Harry Kane,TeamA,True,90,,CF
+BT_M04_1,4,P_BT2,Mo Salah,TeamA,True,90,,WF_inside
+BT_M04_2,4,P_BT7,James Tarkowski,TeamD,True,90,,CB_defensive
+BT_M04_2,4,P_BT8,Declan Rice,TeamD,False,0,,CM_box
+BT_M04_2,4,P_BT3,Erling Haaland,TeamB,True,90,,CF
+BT_M04_2,4,P_BT4,Kevin De Bruyne,TeamB,True,90,,CM_box
+BT_M05_1,5,P_BT1,Harry Kane,TeamA,True,90,,CF
+BT_M05_1,5,P_BT2,Mo Salah,TeamA,True,90,,WF_inside
+BT_M05_1,5,P_BT7,James Tarkowski,TeamD,True,90,,CB_defensive
+BT_M05_1,5,P_BT8,Declan Rice,TeamD,True,90,,CM_box
+BT_M05_2,5,P_BT5,Son Heung-min,TeamC,True,30,,SS
+BT_M05_2,5,P_BT6,Bukayo Saka,TeamC,True,90,,WF_inside
+BT_M05_2,5,P_BT3,Erling Haaland,TeamB,True,90,,CF
+BT_M05_2,5,P_BT4,Kevin De Bruyne,TeamB,True,90,,CM_box
+BT_M06_1,6,P_BT7,James Tarkowski,TeamD,False,0,,CB_defensive
+BT_M06_1,6,P_BT8,Declan Rice,TeamD,True,90,,CM_box
+BT_M06_1,6,P_BT1,Harry Kane,TeamA,True,90,,CF
+BT_M06_1,6,P_BT2,Mo Salah,TeamA,True,90,,WF_inside
+BT_M06_2,6,P_BT3,Erling Haaland,TeamB,True,90,,CF
+BT_M06_2,6,P_BT4,Kevin De Bruyne,TeamB,True,90,,CM_box
+BT_M06_2,6,P_BT5,Son Heung-min,TeamC,True,90,,SS
+BT_M06_2,6,P_BT6,Bukayo Saka,TeamC,True,90,wide,WF_inside
+BT_M07_1,7,P_BT1,Harry Kane,TeamA,True,90,,CF
+BT_M07_1,7,P_BT2,Mo Salah,TeamA,True,90,,WF_inside
+BT_M07_1,7,P_BT3,Erling Haaland,TeamB,True,90,,CF
+BT_M07_1,7,P_BT4,Kevin De Bruyne,TeamB,True,90,,CM_box
+BT_M07_2,7,P_BT5,Son Heung-min,TeamC,True,90,,SS
+BT_M07_2,7,P_BT6,Bukayo Saka,TeamC,True,90,wide,WF_inside
+BT_M07_2,7,P_BT7,James Tarkowski,TeamD,True,90,,CB_defensive
+BT_M07_2,7,P_BT8,Declan Rice,TeamD,True,90,,CM_box
+BT_M08_1,8,P_BT3,Erling Haaland,TeamB,True,90,,CF
+BT_M08_1,8,P_BT4,Kevin De Bruyne,TeamB,True,90,,CM_box
+BT_M08_1,8,P_BT1,Harry Kane,TeamA,True,90,,CF
+BT_M08_1,8,P_BT2,Mo Salah,TeamA,True,90,,WF_inside
+BT_M08_2,8,P_BT7,James Tarkowski,TeamD,True,90,,CB_defensive
+BT_M08_2,8,P_BT8,Declan Rice,TeamD,False,0,,CM_box
+BT_M08_2,8,P_BT5,Son Heung-min,TeamC,True,90,,SS
+BT_M08_2,8,P_BT6,Bukayo Saka,TeamC,True,90,wide,WF_inside
+BT_M09_1,9,P_BT1,Harry Kane,TeamA,True,90,,CF
+BT_M09_1,9,P_BT2,Mo Salah,TeamA,True,90,,WF_inside
+BT_M09_1,9,P_BT5,Son Heung-min,TeamC,True,90,,SS
+BT_M09_1,9,P_BT6,Bukayo Saka,TeamC,True,90,wide,WF_inside
+BT_M09_2,9,P_BT3,Erling Haaland,TeamB,True,90,,CF
+BT_M09_2,9,P_BT4,Kevin De Bruyne,TeamB,True,90,,CM_box
+BT_M09_2,9,P_BT7,James Tarkowski,TeamD,True,90,,CB_defensive
+BT_M09_2,9,P_BT8,Declan Rice,TeamD,True,90,,CM_box
+BT_M10_1,10,P_BT5,Son Heung-min,TeamC,True,90,,SS
+BT_M10_1,10,P_BT6,Bukayo Saka,TeamC,True,90,wide,WF_inside
+BT_M10_1,10,P_BT1,Harry Kane,TeamA,True,90,,CF
+BT_M10_1,10,P_BT2,Mo Salah,TeamA,True,90,,WF_inside
+BT_M10_2,10,P_BT7,James Tarkowski,TeamD,True,90,,CB_defensive
+BT_M10_2,10,P_BT8,Declan Rice,TeamD,True,90,,CM_box
+BT_M10_2,10,P_BT3,Erling Haaland,TeamB,True,90,,CF
+BT_M10_2,10,P_BT4,Kevin De Bruyne,TeamB,True,90,,CM_box

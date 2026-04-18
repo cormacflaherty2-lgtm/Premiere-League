@@ -1,0 +1,5 @@
+team,season,home_shots_pg,away_shots_pg,home_sot_pg,away_sot_pg,home_shots_conceded_pg,away_shots_conceded_pg,home_sot_conceded_pg,away_sot_conceded_pg,avg_possession_home,avg_possession_away,press_intensity_ppda,transition_attacks_pg,set_piece_goals_pct,xg_overperformance
+TeamA,2023-24,16.5,14.0,6.0,5.2,9.5,11.5,3.4,4.0,62,55,7.8,4.5,0.22,0.28
+TeamB,2023-24,16.0,13.5,5.8,5.0,10.0,12.5,3.6,4.2,58,52,8.2,4.2,0.2,0.22
+TeamC,2023-24,13.5,11.5,4.8,4.2,11.5,13.0,4.0,4.6,54,48,10.2,5.2,0.16,0.08
+TeamD,2023-24,11.0,9.5,4.0,3.5,14.5,16.0,5.0,5.5,46,42,13.5,2.8,0.14,-0.18
